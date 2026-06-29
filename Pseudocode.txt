@@ -1,6 +1,28 @@
+Activity 1:
+
 START
 INPUT num1
 INPUT num2
 PROCESS sum  = num1 + num2
 DISPLAY sum
-END
+END.
+
+Activity 2:
+START
+INPUT score1
+INPUT score2
+INPUT score3
+COMPUTE average
+PROCESS average = (score1+score2+score3)/3
+Display average score.
+END.
+
+Activity 3:
+START
+INPUT number
+PROCESS if number MOD 2 = 0 then,
+DISPLAY "Even" if right then,
+DISPLAY "Odd" if wrong
+END.
+
+
